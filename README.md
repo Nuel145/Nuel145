@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSS & JavaScript
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me on mails
-- ⚡ Fun fact: ...
+- 📫 How to reach me? on e-mails
+- ⚡ Fun fact: I love Music!
 
 <!---
 Nuel145/Nuel145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
