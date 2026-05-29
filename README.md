@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nuel145
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS & JavaScript
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👋 Hi, I’m Kelechi Egbebu
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate Back-End Development Projects
 - 📫 How to reach me? on e-mails
 - ⚡ Fun fact: I love Music!
 
