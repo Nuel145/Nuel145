@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kelechi Egbebu
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Software Development 
 - 💞️ I’m looking to collaborate Back-End Development Projects
 - 📫 How to reach me? on e-mails
 - ⚡ Fun fact: I love Music!
